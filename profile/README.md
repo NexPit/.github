@@ -1,8 +1,8 @@
 # REALITEK
 
-**REALITEK – L’avenir de la tech en action.**  
+**NexPit - Engineering the next lap.**  
 
-Realitek est une junior start-up de Epitech Moulins innovante qui explore et développe des projets autour de la **réalité virtuelle**, de la **simulation**, du **sport mécanique** et des **technologies immersives**.  
+NexPit est une junior start-up de Epitech Moulins innovante qui explore et développe des projets autour de la **réalité virtuelle**, de la **simulation**, du **sport mécanique** et des **technologies immersives**.  
 Notre mission : rendre la technologie accessible, créative et tournée vers l’avenir.  
 
 
@@ -28,10 +28,10 @@ Notre mission : rendre la technologie accessible, créative et tournée vers l�
 
 ## 📢 Contact & Réseaux  
 🌍 [realitek.fr](https://realitek.fr)  
-🔗 [LinkedIn](https://linkedin.com/company/realitek)  
-📸 [Instagram](https://instagram.com/realitek_)  
+🔗 [LinkedIn](https://linkedin.com/company/nexpit)  
+📸 [Instagram](https://instagram.com/nexpit.eu)  
 ✉️ contact@realitek.fr  
 
 ---
 
-⚡ *REALITEK – L’avenir de la tech en action.* ⚡  
+⚡ *NexPit - Engineering the next lap.* ⚡  
