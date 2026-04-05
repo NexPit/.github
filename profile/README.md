@@ -27,10 +27,10 @@ Notre mission : rendre la technologie accessible, créative et tournée vers l�
 
 
 ## 📢 Contact & Réseaux  
-🌍 [nexpit.eu](https://nexpit.eu)  
+🌍 [nexpit.fr](https://nexpit.fr)  
 🔗 [LinkedIn](https://linkedin.com/company/nexpit)  
 📸 [Instagram](https://instagram.com/nexpit.eu)  
-✉️ contact@realitek.fr  
+✉️ nexpit03@gmail.com 
 
 ---
 
